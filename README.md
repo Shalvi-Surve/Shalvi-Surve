@@ -16,14 +16,15 @@ In this realm, code is more than syntax — it’s the language of magic, the he
 Tech, to me, is storytelling — where data meets design and logic dances with creativity. Whether decoding complex datasets, building seamless interfaces, or contributing to open-source communities, I’m on a mission to build solutions that are as thoughtful as they are functional.
 
 Here's some quick heads-up about me:
-📍 Mumbai, Maharashtra, India 
-🎓 CSE Pre-Final Year @ VIT Vellore
-🌐 Open Source Contributor @OSCI’25 & GSSoC’25 
-🤝 Perplexity AI Campus Partner
-🎨 Senior Core Member (Design) @ GeoSpatial VIT
-💼 Ex - Intern @ Zidio Development
+- 📍 Mumbai, Maharashtra, India
+- 🎓 CSE Pre-Final Year @ VIT Vellore
+- 🌐 Open Source Contributor @OSCI’25 & GSSoC’25
+- 🤝 Perplexity AI Campus Partner
+- 🎨 Senior Core Member (Design) @ GeoSpatial VIT
+- 💼 Ex - Intern @ Zidio Development
 
 Venture deeper, and you’ll discover my quests through the enchanted forests of Generative AI, and the labyrinths of Data Science — all designed to solve real-world riddles with a touch of creativity and precision.
+
 ---
 
 ## 🔭 My Current Quests
