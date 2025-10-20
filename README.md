@@ -11,9 +11,12 @@ Here, you’ll find my journey through the realms of **AI/ML**, **Web Developmen
 
 Tech, to me, is storytelling — where data meets design and logic dances with creativity. Whether decoding complex datasets, building seamless interfaces, or contributing to open-source communities, I’m on a mission to build solutions that are as thoughtful as they are functional.
 
-📍 Mumbai-based | CSE Pre-Final Year @ VIT
-🌐 Open Source Contributor @OSCI’25 & GSSoC’25 | Perplexity AI Campus Partner
-🎨 Senior Design Core Member @ GeoSpatial VIT
+📍 Mumbai, Maharashtra, India 
+🎓 CSE Pre-Final Year @ VIT Vellore
+🌐 Open Source Contributor @OSCI’25 & GSSoC’25 
+🤝 Perplexity AI Campus Partner
+🎨 Senior Core Member (Design) @ GeoSpatial VIT
+💼 Ex - Intern @ Zidio Development
 
 ---
 
