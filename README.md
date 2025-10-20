@@ -1,7 +1,7 @@
 # 🪄 Welcome to my enchanted world, traveller!
 # <img width="626" height="351" alt="image" src="https://github.com/user-attachments/assets/52ea0c7d-5e7e-45e5-94a3-d9ae1c58728b" />
 
-## Welcome, Curious Mind!
+## Hey, Curious Mind!
 You’ve just entered a space where **code meets creativity**, and **data becomes dialogue**.
 
 I’m Shalvi Surve — Computer Science undergrad at VIT Vellore (Batch of ’27), and here, you’ll find my journey through the realms of **AI/ML**, **Data Analytics**, and **Data Science** — all driven by curiosity and a passion for crafting elegant, user-centered experiences.
