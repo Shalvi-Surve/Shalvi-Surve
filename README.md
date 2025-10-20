@@ -55,9 +55,10 @@ Tech, to me, is storytelling — where data meets design and logic dances with c
 
 ## 📫 Connect with me
 
-* ✉️ [shalviatul.surve2023@vitstudent.ac.in](mailto:shalviatul.surve2023@vitstudent.ac.in)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/shalvisurve-0b572728a/)
-
+* ✉️ [Email](mailto:shalviatul.surve2023@vitstudent.ac.in)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/shalvi-surve-0b572728a/)
+* 🌐 [My Portfolio](https://shalvi-surve.github.io/Shalvi_Portfolio/)
+  
 ---
 
 ## ⚡ Fun fact
